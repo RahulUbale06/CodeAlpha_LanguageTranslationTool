@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Linguify Pro 🌍✨
 
 Linguify Pro is an AI-powered language translation application developed as part of the CodeAlpha Artificial Intelligence Internship.
@@ -52,4 +52,4 @@ Rahul Rakesh Ubale
 =======
 # CodeAlpha_LanguageTranslationTool
 An AI-powered language translation application built using Python, Streamlit, Deep Translator, and Google Text-to-Speech.
->>>>>>> b23f5899f603a6440b615966daf936017be8866a
+
